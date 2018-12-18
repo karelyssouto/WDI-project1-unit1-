@@ -26,6 +26,8 @@ All you have to do is connect four of your colored checker pieces in a row, much
 ## Wireframes 
 
 ![images](/images/splashpage.JPG)
+![images](/images/modal.JPG)
+![images](/images/gamepage.JPG)
 
 ## Resources
 
