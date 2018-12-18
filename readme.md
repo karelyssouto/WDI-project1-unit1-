@@ -39,8 +39,13 @@ All you have to do is connect four of your colored checker pieces in a row, much
 7. Freecodecamp (https://www.youtube.com/watch?v=531FRc8e2Sk&t=527s)
 8. Codepen 
 9. Youtube (https://www.youtube.com/watch?v=4AIop6P-jHE&t=1065s)
+10. Sweet Alert
 
 ## Challenges
+- Logic for a win 
+- Adding sound to the win alert 
+- Time management 
+- Getting started
 
 ## Shoutouts
 
@@ -54,8 +59,8 @@ WDI classmates
 
 ## What I learned through this project 
 
-1. 
-2. 
-3. 
-4. 
+1. Importance of googling problems
+2. Taking breaks
+3. SVG tags
+4. Sweet Alert
 5. 
