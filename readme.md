@@ -3,7 +3,7 @@
 "Challenge a friend to rule the grid in Connect 4 Classic Grid, the game where strategy drives the competition! Line ‘em up and go for the win! Choose the gold discs or the red discs and drop them into the grid. When you get 4 discs in a row, you win. It’s simple, fast, and fun. Master the grid." -Hasbro
 
 ## My connect 4
-https://blissful-lalande-2544d0.netlify.com/game.html
+[My Website](https://blissful-lalande-2544d0.netlify.com/game.html)
 
 ### User Stories
 - As a user, I want to have a set of instructions on how to play the game, in case that I've never heard the game before
