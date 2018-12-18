@@ -31,9 +31,9 @@ All you have to do is connect four of your colored checker pieces in a row, much
 
 ## Resources
 
-##Challenges
+## Challenges
 
-##Shoutouts
+## Shoutouts
 
 WDI classmates
 - Tory Thompson 
