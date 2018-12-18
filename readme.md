@@ -22,3 +22,5 @@ All you have to do is connect four of your colored checker pieces in a row, much
 - In Connect 4 Grid it’s all about strategy.
 - Pick your favorite way to win (vertically, horizontally or diagonally).
 - Release a disc to open up new options.
+
+

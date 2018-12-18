@@ -30,14 +30,39 @@ h1{
 #goPlay:hover{
     opacity: 0.85;
 }
-.splashSubtitle{
+.splashSubtitle1{
     font-size: 2.5rem;
+    display: inline;
+    padding-right: 2%;
+}
+.splashSubtitle2{
+    font-size: 2.5rem;
+    display: inline;
+    padding-right: 2%;
+}
+.splashSubtitle3{
+    font-size: 2.5rem;
+    display: inline;
+    padding-right: 2%;
+}
+.splashSubtitle1-1{
+    font-size: 1.5rem;
+    display: inline;
+    padding-right: 2%;
+}
+.splashSubtitle2-1{
+    font-size: 1.5rem;
+    display: inline;
+    padding-right: 2%;
+}
+.splashSubtitle3-1{
+    font-size: 1.5rem;
     display: inline;
     padding-right: 2%;
 }
 .modalCardBody{
     color: black;
-    
+
 }
 /* GAME PAGE */
 a, .title{
