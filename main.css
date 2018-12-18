@@ -58,18 +58,13 @@ a, .title{
     display: flex
 }
 /* styling the grid */
-.rows{
-    border-top: solid transparent;
-    border-bottom: solid transparent
+.column {
+	width: 7vw;
+	display: inline-block;
 }
-
-.row {
-	width: 100px;
-    display: inline-block;
-    border-top: solid transparent;
-    border-bottom: solid transparent
+.container{
+	text-align: center;
 }
-
 circle.player1 {
 	stroke: rgb(142, 214, 208);
 }
