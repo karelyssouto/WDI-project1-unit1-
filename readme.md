@@ -30,6 +30,15 @@ All you have to do is connect four of your colored checker pieces in a row, much
 ![images](/images/gamepage.JPG)
 
 ## Resources
+1.  WDI classmates
+2.  Bulma
+3. W3 Schools
+4. Google Fonts
+5. Animate.css (within Bulma)
+6. JQuery
+7. Freecodecamp (https://www.youtube.com/watch?v=531FRc8e2Sk&t=527s)
+8. Codepen 
+9. Youtube (https://www.youtube.com/watch?v=4AIop6P-jHE&t=1065s)
 
 ## Challenges
 
@@ -41,3 +50,12 @@ WDI classmates
 **Special Shoutouts**
 - Shalain DeRamus
 - Kenya Johnson
+- Ecclesia Morain
+
+## What I learned through this project 
+
+1. 
+2. 
+3. 
+4. 
+5. 
