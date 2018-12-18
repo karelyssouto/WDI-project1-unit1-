@@ -1,16 +1,25 @@
 body{
     margin: 0;
+    padding: 0;
+    /* background: black; */
+}
+section{
     background: black;
 }
-
+aside{
+    background: black
+}
 .splashContainer{
     color: white;
     text-align: center;
     font-size: 6rem;
-
+    background: black;
+    width: 100vw;
+    height: 100vh;
 }
 h1{
     padding-top:20%;
+    font-family: 'Nixie One', cursive;
 }
 #goPlay{
     color:white;
@@ -27,18 +36,16 @@ h1{
     padding-right: 2%;
 }
 /* GAME PAGE */
-.title{
+a, .title{
     font-family: 'Nixie One', cursive;
-    color:white;
+    color:rgb(247, 225, 101);
 }
 .subtitle{
     display: inline;
     padding-right: 2%;
     font-size: 1em;
 }
-a{
-    color: white;
-}
+
 .gameSection{
     height: 100vh;
 }
@@ -56,7 +63,7 @@ a{
     border-bottom: solid transparent
 }
 
-.column {
+.row {
 	width: 100px;
     display: inline-block;
     border-top: solid transparent;
