@@ -166,7 +166,7 @@ let checkDirection = (currentRow, currentColumn, direction) => {
 
     checkDirections[direction].forEach((coords) => {
 
-        let chips = 1
+        let i = 1
 
         // for(let i=0; i < checkDirections; i++){
         //     checkDirections[direction] =(coords) =>{
