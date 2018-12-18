@@ -35,10 +35,14 @@ h1{
     display: inline;
     padding-right: 2%;
 }
+.modalCardBody{
+    color: black;
+    
+}
 /* GAME PAGE */
 a, .title{
     font-family: 'Nixie One', cursive;
-    color:rgb(247, 225, 101);
+    color:rgb(255, 255, 255);
 }
 .subtitle{
     display: inline;
@@ -48,6 +52,9 @@ a, .title{
 
 .gameSection{
     height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* position: absolute */
 }
 .table{
     /* border: solid thin white; */
@@ -57,18 +64,25 @@ a, .title{
     background: transparent;
     display: flex
 }
+.chips{
+    display: flex;
+    /* flex-direction: column; */
+    padding-left: 25%;
+    padding-bottom: 5%;
+}
 /* styling the grid */
 .column {
-	width: 7vw;
-	display: inline-block;
+	width: 120px;
+    display: inline-block;
 }
 .container{
 	text-align: center;
 }
 circle.player1 {
-	stroke: rgb(142, 214, 208);
+    stroke: rosybrown;
+    stroke-width: 10
 }
-
 circle.player2 {
-	stroke: rgb(247, 225, 101);
+    stroke: rgb(247, 225, 101);
+     stroke-width: 10
 }
