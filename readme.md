@@ -23,4 +23,19 @@ All you have to do is connect four of your colored checker pieces in a row, much
 - Pick your favorite way to win (vertically, horizontally or diagonally).
 - Release a disc to open up new options.
 
+## Wireframes 
 
+![images](splashpage.JPG)
+
+## Resources
+
+##Challenges
+
+##Shoutouts
+
+WDI classmates
+- Tory Thompson 
+
+**Special Shoutouts**
+- Shalain DeRamus
+- Kenya Johnson
