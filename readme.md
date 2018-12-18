@@ -25,7 +25,7 @@ All you have to do is connect four of your colored checker pieces in a row, much
 
 ## Wireframes 
 
-![images](splashpage.JPG)
+![images](/images/splashpage.JPG)
 
 ## Resources
 
