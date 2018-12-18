@@ -2,11 +2,25 @@ console.log('testing testing 1 2 3')
 
 // /////////////////MODALS///////////////////////
 // how to play modal
-let howToPlay = $('.splashSubtitle').on('click', ()=>{
+let howToPlay = $('.splashSubtitle1').on('click', ()=>{
     swal({
-        text: 'select the column'
+        text: 'Select the column you want your chip to be placed, click on it and let the second player take its turn. Keep  playing until someone wins!'
     })
 })
+// rules modal 
+let openRules = $('.splashSubtitle2').on('click', () => {
+    swal({
+        text: 'All you have to do is connect four of your colored checker pieces in a row, much the same as tic tac toe. This can be done horizontally, vertically or diagonally. Each player will drop in one checker piece at a time. This will give you a chance to either build your row, or stop your opponent from getting four in a row.'
+    })
+})
+// wiining modal
+let winning = $('.splashSubtitle3').on('click', () => {
+    swal({
+        text: 'Get four in a row first' + '. It’s all about strategy' + '. Pick your favorite way to win (vertically, horizontally or diagonally).' + ' Release a disc to open up new options.',
+    })
+})
+
+
 
 // // ////////////////
 // //   CONNECT 4  //
