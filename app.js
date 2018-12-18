@@ -146,6 +146,7 @@ let clearBoard = () => {
 
 
 let winner = function (currentX, currentY) {
+// this will check the different directions for winning depending on the position in the x, y axis and checking for vertical, diagonal and horizontal 
     return checkDirection(currentX, currentY, 'vertical') || checkDirection(currentX, currentY, 'diagonal') || checkDirection(currentX, currentY, 'horizontal');
 };
 
@@ -165,8 +166,19 @@ let checkDirection = (currentRow, currentColumn, direction) => {
 
     checkDirections[direction].forEach((coords) => {
 
-        let i = 1
+        let chips = 1
 
+        // for(let i=0; i < checkDirections; i++){
+        //     checkDirections[direction] =(coords) =>{
+        //         let i =1
+        //          while (isBounds(currentX + (coords[0] * i), currentY + (coords[1] * i)) &&
+        //         (grid[currentX + (coords[0] * i)][currentY + (coords[1] * i)] === currentPlayer)
+        //     ) {
+        //         chainLength = chainLength + 1
+        //         i = i + 1
+        //     }
+        //     }
+        // }
         while (isBounds(currentRow + (coords[0] * i), currentColumn + (coords[1] * i)) &&
             (grid[currentRow + (coords[0] * i)][currentColumn + (coords[1] * i)] === currentPlayer)
         ) {

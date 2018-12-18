@@ -29,7 +29,12 @@ All you have to do is connect four of your colored checker pieces in a row, much
 ![images](/images/modal.JPG)
 ![images](/images/gamepage.JPG)
 
+### Trello Board
+
+  https://trello.com/b/OAF5Trq3/wdi-unit1project
+
 ## Resources
+**html, css, js, jquery**
 1.  WDI classmates
 2.  Bulma
 3. W3 Schools
@@ -49,7 +54,7 @@ All you have to do is connect four of your colored checker pieces in a row, much
 
 ## Shoutouts
 
-WDI classmates
+- WDI classmates
 - Tory Thompson 
 
 **Special Shoutouts**
@@ -62,5 +67,14 @@ WDI classmates
 1. Importance of googling problems
 2. Taking breaks
 3. SVG tags
-4. Sweet Alert
-5. 
+4. Sweet Alerts
+
+## CONNECT 4 vs 0.1
+
+- New logic for winning
+- Add a player vs computer option
+- Allow th players to input their name and choose a chip color
+- Style the Sweet Alerts
+- Keep score of who won
+
+
