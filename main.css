@@ -39,6 +39,7 @@ h1{
     display: inline;
     padding-right: 2%;
 }
+/* GAME PAGE */
 .title{
     font-family: 'Nixie One', cursive;
     color:white;
@@ -50,4 +51,19 @@ h1{
 }
 a{
     color: white;
+}
+.gameSection{
+    height: 100vh;
+}
+.table{
+    border: solid thin white;
+    color: white;
+    width: 50vw;
+    height: 50vh;
+    background: transparent;
+}
+/* styling the grid */
+.rows{
+    border-top: solid transparent;
+    border-bottom: solid transparent
 }
