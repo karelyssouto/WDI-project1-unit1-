@@ -68,6 +68,16 @@ let startGame = () => {
             currentPlayer = 'player1'
         }
     }
+    let clearBoard = () => {
+        for (let i = 0; i < $('.circle').length; i++) {
+            $('.circle')[i].attr('class', 'notPlayed')
+
+        }
+    }
+/////////////////// DECLARE A WINNER ///////////////////////
+    let winner = () => {
+        
+    }
 
 }
     startGame()
